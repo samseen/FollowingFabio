@@ -18,5 +18,8 @@
   "homepage": "https://github.com/samseen/FollowingFabio#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0"
   }
 }
